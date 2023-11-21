@@ -63,5 +63,3 @@ This project is an individual effort and is not open for external contributions 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to customize this according to the specific functionalities and structure of your Hospital Management System.
