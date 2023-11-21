@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-20">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MySQL/MySQL Installer for Windows/mysql-connector-j-8.0.33/mysql-connector-j-8.0.33.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/.m2/repository/net/bytebuddy/byte-buddy-agent/1.12.20/byte-buddy-agent-1.12.20.jar" sourcepath="C:/Users/DELL/.m2/repository/net/bytebuddy/byte-buddy-agent/1.12.20/byte-buddy-agent-1.12.20-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.groupId" value="net.bytebuddy"/>
+			<attribute name="maven.artifactId" value="byte-buddy-agent"/>
+			<attribute name="maven.version" value="1.12.20"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
